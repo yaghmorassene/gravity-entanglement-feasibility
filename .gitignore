@@ -1,0 +1,21 @@
+# MATLAB temporary and autosave files
+*.asv
+*.m~
+*.mlx
+*.mat
+*.fig
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Results folders
+results/figures/
+results/tables/
+results/logs/
+results/cache/
+results/entanglement_outputs/
+
+# Editor settings
+.vscode/
+*.code-workspace
