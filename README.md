@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13759465.svg)](https://doi.org/10.5281/zenodo.13759465)
+
+
 # Gravity-Mediated Entanglement Feasibility (MATLAB Code)
 
 MATLAB simulations and figures accompanying the paper *"Gravity-mediated entanglement feasibility and calibration"*.  
