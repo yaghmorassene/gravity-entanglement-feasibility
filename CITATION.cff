@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Gravity-Mediated Entanglement Feasibility (MATLAB Code)"
+authors:
+  - family-names: Yaghmorassene
+    given-names: Assene
+    affiliation: "Butte College / University of Massachusetts Amherst"
+date-released: 2025-11-12
+version: "1.0.0"
+url: "https://github.com/yaghmorassene/gravity-entanglement-feasibility"
+repository-code: "https://github.com/yaghmorassene/gravity-entanglement-feasibility"
+message: "If you use this code or reproduce the results, please cite this repository."
+abstract: >
+  MATLAB simulations and figures accompanying the paper 'Gravity-mediated
+  entanglement feasibility and calibration'. Includes end-to-end scripts for
+  visibility fits, dephasing budgets, scaling-law checks, and CHSH feasibility.
+keywords:
+  - MATLAB
+  - entanglement
+  - quantum-gravity
+  - PSD
+  - CHSH
+  - dephasing
+  - calibration
+license: MIT
